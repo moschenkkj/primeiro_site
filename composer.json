@@ -1,0 +1,19 @@
+{
+    "name": "kk/site",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "Mycaella M",
+            "email": "mycaellacoffler@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
